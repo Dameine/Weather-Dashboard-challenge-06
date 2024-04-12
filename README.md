@@ -13,7 +13,9 @@ N/A
 To use this weather dashboard simply enter in a city name into the search bar. To the right of the search bar the current weather will populate for that city. Below that it'll show the forecast for the next 5 days.
 
 ## Deployed Links
+website: https://dameine.github.io/Weather-Dashboard-challenge-06/
 
+github repo: https://github.com/Dameine/Weather-Dashboard-challenge-06
 
 ## Snapshots
 ![Weather Dashboard with locations](./assets/images/1.png)
